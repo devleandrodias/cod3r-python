@@ -1,2 +1,12 @@
-# cod3r-python
-Cod3r course Python 3.0
+# Cod3r - Python 3.0
+
+## Commands
+
+- help()
+- quit()
+
+## Python 3
+
+- Basic Types
+- Variables
+- Comments
